@@ -1,0 +1,8 @@
+chromadb
+google-genai
+pinecone
+PyMuPDF
+pypdf
+python-dotenv
+requests
+sentence-transformers

@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+
+/documents/*.pdf
+/documents/*.csv
+/documents/*.txt
+/extracted_text/
+/chunks/
+/chroma_db/
